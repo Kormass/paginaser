@@ -1,0 +1,36 @@
+body{
+    color: white;
+    background-image: url(fondo.png);
+    background-size: cover;
+    font-family: sans-serif;
+}
+.container{
+    width: 200vh;
+    margin: 0;
+    margin-left: -10px;
+    margin-top: -10px;
+    display: inline-block;
+}
+
+header{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.cont{
+    max-width: 500px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.primero{
+    text-align: center;
+    font-size: 35px;
+}
+
+img{
+    max-width: 500px;
+    max-height: 200px;
+    object-fit: cover;
+}
